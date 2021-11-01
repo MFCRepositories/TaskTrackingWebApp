@@ -5,25 +5,25 @@ It is a web project that enables the creation of new personnel to the system wit
 
 # Technologies and structures used in this project
 
-N-Tier Architecture
+* N-Tier Architecture
 
-ASP.NET Core 3.01
+* ASP.NET Core 3.01
 
-ASP.NET MVC Framework
+* ASP.NET MVC Framework
 
-Net Core Identity
+* Net Core Identity
 
-Entity Framework Core Code First
+* Entity Framework Core Code First
 
-Migrations
+* Migrations
 
-AJAX
+* AJAX
 
-AutoMapper
+* AutoMapper
 
-Fluent Validation 
+* Fluent Validation 
 
-HTML,CSS,JavaScript,Bootstrap
+* HTML, CSS, JavaScript, Bootstrap
 
 
 
